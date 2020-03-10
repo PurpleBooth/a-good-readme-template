@@ -4,6 +4,18 @@ One Paragraph of project description goes here
 
 This initially appeared on [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), but as I can no longer open that page as there are too many comments, I have moved it here.
 
+## Summary
+
+- [Getting Started](#getting-started)
+- [Runing the tests](#running-the-tests)
+- [Deployment](#deployment)
+- [Built With](#built-with)
+- [Contributing](#contributing)
+- [Versioning](#versioning)
+- [Authors](#authors)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
