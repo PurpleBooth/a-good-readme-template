@@ -56,6 +56,5 @@ The aim of this repository is:
 
 ### Does it follow the contributor covenant
 
-This repository has a [code of conduct](CODE_OF_CONDUCT.md), This
-repository has a code of conduct, I will remove things that do not
-respect it.
+This repository has a [code of conduct](CODE_OF_CONDUCT.md), I will
+remove things that do not respect it.
