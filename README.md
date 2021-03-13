@@ -1,11 +1,10 @@
 # Project Title
 
-One Paragraph of project description goes here
+One Paragraph of the project description
 
-This initially appeared on
+Initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), but as
-I can no longer open that page as there are too many comments, I have
-moved it here.
+I can no longer open that page as there are too many comments that is why I have moved it here.
 
 ## Summary
 
@@ -23,7 +22,7 @@ moved it here.
 
 These instructions will get you a copy of the project up and running on
 your local machine for development and testing purposes. See deployment
-for notes on how to deploy the project on a live system.
+for notes on deploying the project on a live system.
 
 ### Prerequisites
 
@@ -65,7 +64,7 @@ Explain what these tests test and why
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Add additional notes to deploy this on a live system
 
 ## Built With
 
@@ -102,6 +101,6 @@ details
 
 ## Acknowledgments
 
-  - Hat tip to anyone whose code was used
+  - Hat tip to anyone whose code is used
   - Inspiration
   - etc
