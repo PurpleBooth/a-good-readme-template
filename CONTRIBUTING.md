@@ -40,8 +40,8 @@ the action you have taken to solve it.
   - There are no spelling mistakes
   - It reads well
   - For english language contributions: Has a good score on
-    [Grammarly](http://www.grammarly.com) or [Hemingway
-    App](http://www.hemingwayapp.com/)
+    [Grammarly](https://www.grammarly.com) or [Hemingway
+    App](https://www.hemingwayapp.com/)
 
 ### Does it move this repository closer to my vision for the repository
 
