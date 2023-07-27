@@ -13,7 +13,7 @@ Thank you for creating them.
 
 ## Pull Requests
 
-Pull requests are, a great way to get your ideas into this repository.
+Pull requests are a great way to get your ideas into this repository.
 
 When deciding if I merge in a pull request I look at the following
 things:
